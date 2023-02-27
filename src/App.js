@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import NavbarComponent from './components/Navbar.js';
@@ -40,4 +39,3 @@ export default App;
 
 
 
-{/* this is a test script */}
